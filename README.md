@@ -1,11 +1,21 @@
-### Hi Folks 👋 
-My name is Yueyang Pan. Currently I am pursuing my PhD at EPFL about computer systems and machine learning systems. I have faith in AGI, and I am actively embracing LLM to be integrated into my daily workflow. 
-I like to learn how to harness AI power and build product which is infeasible for a single person in the previous era.
-I also like to contribute to open source projects as I believe open source is the best way to amortize the infra cost. 
-My personal website is https://panjason.github.io/. Have a look at it.
+### Hi folks 👋
+I’m Yueyang Pan — a PhD researcher at EPFL working at the intersection of
+computer systems and machine learning systems. I work in a full-stack way by
+building infrastructure and products that turn ideas into reality.
+
+#### What I care about 🔭 
+- **AGI and LLM-native workflows**: I’m exploring how LLM-powered Agents can be woven into everyday engineering to amplify the productivity of an individual.
+- **Personalized agents**: Agents should be equipped with low-cost, personalized memory like J.A.R.V.I.S.
+- **Robust scalable systems**: I love turning prototyping and research into robust, reusable platforms.
+- **Open source**: The best way to amortize infrastructure costs and accelerate progress.
+
+#### Let’s connect 📫
+My personal site: https://panjason.github.io/ — publications and updates.
 
 
 ![PanJason's GitHub stats](profile/stats.svg)
+
+
 ![Top Langs](profile/top-langs.svg)
 
 <!--
